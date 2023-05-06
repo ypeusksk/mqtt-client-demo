@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ypeusksk/mqtt-client-demo#readme",
   "dependencies": {
-    "mqtt": "^3.0.0"
+    "mqtt": "^4.3.7"
   }
 }
